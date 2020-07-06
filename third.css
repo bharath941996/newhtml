@@ -1,0 +1,47 @@
+.one {
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    left: 0px;
+
+}
+.three,p {
+    color: white;
+    position: absolute;
+    /* font-size: 40px; */
+    /* text-align: center; */
+    /* padding-top: 02px; */
+    left: 600px;
+    top: 30px;
+    
+    
+    
+    
+}
+.one,figure {
+    
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.two {
+    position: fixed;
+    bottom: 0px;
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    left: 0px;
+}
+details {
+    padding-top: 130px;
+    /* position: ; */
+}
+.four,p {
+    text-align: justify;
+    font-size: 15px;
+    
+    color: blue;
+    padding-top: 200px;
+    
+    left: 0px;
+}
